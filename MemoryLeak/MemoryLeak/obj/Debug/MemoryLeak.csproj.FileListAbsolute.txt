@@ -1,0 +1,9 @@
+D:\NTTung\MemoryLeak\idisposable-best-practices-csharp-developers\MemoryLeak\MemoryLeak\bin\Debug\MemoryLeak.exe
+D:\NTTung\MemoryLeak\idisposable-best-practices-csharp-developers\MemoryLeak\MemoryLeak\bin\Debug\MemoryLeak.pdb
+D:\NTTung\MemoryLeak\idisposable-best-practices-csharp-developers\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csprojResolveAssemblyReference.cache
+D:\NTTung\MemoryLeak\idisposable-best-practices-csharp-developers\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.Form2.resources
+D:\NTTung\MemoryLeak\idisposable-best-practices-csharp-developers\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.Form1.resources
+D:\NTTung\MemoryLeak\idisposable-best-practices-csharp-developers\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.Properties.Resources.resources
+D:\NTTung\MemoryLeak\idisposable-best-practices-csharp-developers\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csproj.GenerateResource.Cache
+D:\NTTung\MemoryLeak\idisposable-best-practices-csharp-developers\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.exe
+D:\NTTung\MemoryLeak\idisposable-best-practices-csharp-developers\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.pdb

@@ -1,0 +1,8 @@
+D:\NTTung\MemoryLeak\WindowsAppMemoryLeak\WindowsAppMemoryLeak\obj\Debug\WindowsAppMemoryLeak.exe
+D:\NTTung\MemoryLeak\WindowsAppMemoryLeak\WindowsAppMemoryLeak\obj\Debug\WindowsAppMemoryLeak.pdb
+D:\NTTung\MemoryLeak\WindowsAppMemoryLeak\WindowsAppMemoryLeak\bin\Debug\WindowsAppMemoryLeak.exe
+D:\NTTung\MemoryLeak\WindowsAppMemoryLeak\WindowsAppMemoryLeak\bin\Debug\WindowsAppMemoryLeak.pdb
+D:\NTTung\MemoryLeak\WindowsAppMemoryLeak\WindowsAppMemoryLeak\obj\Debug\WindowsAppMemoryLeak.csprojResolveAssemblyReference.cache
+D:\NTTung\MemoryLeak\WindowsAppMemoryLeak\WindowsAppMemoryLeak\obj\Debug\WindowsAppMemoryLeak.frmMemoryLeakage.resources
+D:\NTTung\MemoryLeak\WindowsAppMemoryLeak\WindowsAppMemoryLeak\obj\Debug\WindowsAppMemoryLeak.Properties.Resources.resources
+D:\NTTung\MemoryLeak\WindowsAppMemoryLeak\WindowsAppMemoryLeak\obj\Debug\WindowsAppMemoryLeak.csproj.GenerateResource.Cache
